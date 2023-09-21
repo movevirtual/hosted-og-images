@@ -7,3 +7,5 @@
 ![tailwindkit-banner-og](https://github.com/movevirtual/hosted-og-images/assets/136367781/d8ba431c-2670-4cb9-95bd-21a315e4c96a)
 
 ![tailwindkit-collection-banner-og](https://github.com/movevirtual/hosted-og-images/assets/136367781/4700ca31-168b-4ba1-bb42-821b19178969)
+
+![tailwindkit-banner-og](https://github.com/movevirtual/hosted-og-images/assets/136367781/23342f13-f78f-41b1-a83f-487fc4c0b447)
